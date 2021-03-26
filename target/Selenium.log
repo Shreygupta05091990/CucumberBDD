@@ -1,0 +1,350 @@
+2021-03-22 18:55:21 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 18:55:21 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 18:57:10 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 18:57:10 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 18:58:16 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 18:58:24 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 18:58:24 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 19:02:08 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 19:02:13 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 19:02:13 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 19:37:48 [INFO ] [Browser1] - [startBrowser] Selected Browser = firefox
+2021-03-22 19:38:00 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 19:38:00 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 19:45:02 [INFO ] [Browser1] - [startBrowser] Selected Browser = ie
+2021-03-22 19:45:11 [INFO ] [Browser1] - [startBrowser] Firefox Driver is opening 1028472807
+2021-03-22 19:45:13 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 19:45:13 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 19:45:37 [INFO ] [Browser1] - [startBrowser] Selected Browser = ie
+2021-03-22 19:45:44 [INFO ] [Browser1] - [startBrowser] Firefox Driver is opening 925568390
+2021-03-22 19:45:46 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 19:45:46 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 19:54:58 [INFO ] [Browser1] - [startBrowser] Selected Browser = ie
+2021-03-22 19:55:04 [INFO ] [Browser1] - [startBrowser] IE Driver is opening 1816468636
+2021-03-22 19:55:05 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 19:55:05 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 19:55:36 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 19:55:40 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 19:55:40 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 19:56:20 [INFO ] [Browser1] - [startBrowser] Selected Browser = firefox
+2021-03-22 19:56:30 [INFO ] [Browser1] - [startBrowser] Firefox Driver is opening 917568725
+2021-03-22 19:56:34 [INFO ] [Browser1] - [startBrowser] IE Driver is opening 1960253514
+2021-03-22 19:56:36 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 19:56:36 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:12:00 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 20:12:00 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:12:00 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:13:57 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 20:13:57 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:13:57 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:16:45 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 20:16:45 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:16:45 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:22:16 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 20:22:16 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:22:16 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:24:54 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 20:24:54 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:24:54 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:28:14 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 20:28:14 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:28:14 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:34:29 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:34:29 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:35:33 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 20:35:37 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1756573246
+2021-03-22 20:35:46 [INFO ] [Browser1] - [startBrowser] Firefox Driver is opening 1784834205
+2021-03-22 20:35:51 [INFO ] [Browser1] - [startBrowser] IE Driver is opening 653345773
+2021-03-22 20:35:53 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:35:53 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:52:15 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 20:52:19 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1756573246
+2021-03-22 20:52:27 [INFO ] [Browser1] - [startBrowser] Firefox Driver is opening 1373577787
+2021-03-22 20:52:32 [INFO ] [Browser1] - [startBrowser] IE Driver is opening 36627152
+2021-03-22 20:52:34 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:52:34 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:55:17 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 20:55:21 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1756573246
+2021-03-22 20:55:29 [INFO ] [Browser1] - [startBrowser] Firefox Driver is opening 1784834205
+2021-03-22 20:55:34 [INFO ] [Browser1] - [startBrowser] IE Driver is opening 653345773
+2021-03-22 20:55:36 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:55:36 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-22 20:59:12 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 20:59:16 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1756573246
+2021-03-22 20:59:18 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 20:59:18 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-22 21:00:06 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-22 21:00:09 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1756573246
+2021-03-22 21:00:11 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-22 21:00:11 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-23 13:53:14 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 13:53:18 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1756573246
+2021-03-23 13:53:24 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-23 13:53:24 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-23 13:55:04 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 13:55:08 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1756573246
+2021-03-23 13:55:14 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-23 13:55:14 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-23 14:19:01 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 14:19:05 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1756573246
+2021-03-23 14:19:12 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-23 14:19:12 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-23 14:27:13 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 14:27:17 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1756573246
+2021-03-23 14:27:22 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-23 14:27:22 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-23 14:37:03 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 14:37:07 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 946802083
+2021-03-23 14:37:14 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is not allowed to register when user doesnt provides mandatory fields
+2021-03-23 14:37:14 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-23 15:44:09 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 15:44:13 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 946802083
+2021-03-23 15:44:17 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is not allowed to register when user doesnt provides mandatory fields
+2021-03-23 15:44:17 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-23 15:48:50 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 15:48:54 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 962944318
+2021-03-23 15:49:01 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-23 15:49:01 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-23 18:58:40 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 18:58:45 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 962944318
+2021-03-23 18:59:24 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-23 18:59:24 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-23 19:01:56 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 19:01:59 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 962944318
+2021-03-23 19:02:35 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-23 19:02:35 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-23 19:06:20 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 19:06:24 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 962944318
+2021-03-23 19:06:30 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-23 19:06:30 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-23 19:10:29 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 19:10:34 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 962944318
+2021-03-23 19:10:43 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-23 19:10:43 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-23 19:11:54 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 19:11:57 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 888287133
+2021-03-23 19:12:03 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-23 19:12:03 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-23 19:12:37 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 19:12:41 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 888287133
+2021-03-23 19:12:50 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-23 19:12:50 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-23 19:20:32 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 19:20:36 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 888287133
+2021-03-23 19:20:40 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify a duplicate user is not  allowed to register
+2021-03-23 19:20:40 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-23 19:30:24 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 19:30:27 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 888287133
+2021-03-23 19:30:34 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify a duplicate user is not  allowed to register
+2021-03-23 19:30:34 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-23 19:57:24 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 19:57:28 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 888287133
+2021-03-23 19:57:35 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify a duplicate user is not  allowed to register
+2021-03-23 19:57:35 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-23 19:58:42 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 19:58:45 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 888287133
+2021-03-23 19:58:53 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify a duplicate user is not  allowed to register
+2021-03-23 19:58:53 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-23 20:02:59 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 20:03:02 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 888287133
+2021-03-23 20:03:08 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify a duplicate user is not  allowed to register
+2021-03-23 20:03:08 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-23 20:05:53 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 20:05:57 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2073299099
+2021-03-23 20:06:05 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-23 20:06:05 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-23 20:06:07 [INFO ] [Hooks1] - [setup] Scenario started Verify user is not allowed to register when user doesnt provides mandatory fields
+2021-03-23 20:06:07 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 20:06:09 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1731763384
+2021-03-23 20:06:14 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is not allowed to register when user doesnt provides mandatory fields
+2021-03-23 20:06:14 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-23 20:06:15 [INFO ] [Hooks1] - [setup] Scenario started Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-23 20:06:15 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 20:06:17 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 259319861
+2021-03-23 20:06:26 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-23 20:06:26 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-23 20:06:26 [INFO ] [Hooks1] - [setup] Scenario started Verify a duplicate user is not  allowed to register
+2021-03-23 20:06:26 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-23 20:06:28 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 321772459
+2021-03-23 20:06:34 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify a duplicate user is not  allowed to register
+2021-03-23 20:06:34 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 13:08:54 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 13:09:00 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 795326519
+2021-03-24 13:09:03 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to login with valid credentials
+2021-03-24 13:09:03 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-24 14:34:38 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 14:34:41 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 409598930
+2021-03-24 14:34:45 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to login with valid credentials
+2021-03-24 14:34:45 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-24 14:35:51 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 14:35:54 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 409598930
+2021-03-24 14:35:58 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to login with valid credentials
+2021-03-24 14:35:58 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-24 15:05:37 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 15:05:42 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 15:05:47 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to login with valid credentials
+2021-03-24 15:05:47 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 15:09:28 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 15:09:31 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 15:09:38 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to login with valid credentials
+2021-03-24 15:09:38 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 15:12:47 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 15:12:51 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1825445620
+2021-03-24 15:12:55 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to login with valid credentials
+2021-03-24 15:12:55 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 15:12:56 [INFO ] [Hooks1] - [setup] Scenario started Verify whether the User is not able to login with invalid credentials
+2021-03-24 15:12:56 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 15:12:58 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1956415355
+2021-03-24 15:13:02 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login with invalid credentials
+2021-03-24 15:13:02 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-24 15:15:13 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 15:15:16 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1825445620
+2021-03-24 15:15:20 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to login with valid credentials
+2021-03-24 15:15:20 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 15:15:21 [INFO ] [Hooks1] - [setup] Scenario started Verify whether the User is not able to login with invalid credentials
+2021-03-24 15:15:21 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 15:15:22 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 226690498
+2021-03-24 15:15:26 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login with invalid credentials
+2021-03-24 15:15:26 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 16:08:45 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:08:49 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 16:08:54 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login with invalid credentials
+2021-03-24 16:08:54 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 16:11:17 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:11:21 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 16:11:26 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login not credentials
+2021-03-24 16:11:26 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 16:18:15 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:18:19 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1825445620
+2021-03-24 16:18:23 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to login with valid credentials
+2021-03-24 16:18:23 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 16:18:25 [INFO ] [Hooks1] - [setup] Scenario started Verify whether the User is not able to login with invalid credentials
+2021-03-24 16:18:25 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:18:26 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1956415355
+2021-03-24 16:18:31 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login with invalid credentials
+2021-03-24 16:18:31 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 16:18:31 [INFO ] [Hooks1] - [setup] Scenario started Verify whether the User is not able to login not credentials
+2021-03-24 16:18:31 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:18:33 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 331596257
+2021-03-24 16:18:37 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login not credentials
+2021-03-24 16:18:37 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 16:18:38 [INFO ] [Hooks1] - [setup] Scenario started Verify whether the User is not able to login not credentials
+2021-03-24 16:18:38 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:18:40 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1626852381
+2021-03-24 16:18:45 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login not credentials
+2021-03-24 16:18:45 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-24 16:19:18 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:19:21 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 16:19:25 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login not credentials
+2021-03-24 16:19:25 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-24 16:43:05 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:43:09 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 16:43:15 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login not credentials
+2021-03-24 16:43:15 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 16:44:22 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:44:26 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 16:44:30 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to reset Password
+2021-03-24 16:44:30 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 16:45:32 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:45:35 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 16:45:40 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to reset Password
+2021-03-24 16:45:40 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 16:53:03 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 16:53:07 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 16:53:12 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to reset Password
+2021-03-24 16:53:12 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 18:18:39 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:18:43 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 18:18:48 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to reset Password
+2021-03-24 18:18:48 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 18:24:18 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:24:22 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 768415370
+2021-03-24 18:24:27 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to login with valid credentials
+2021-03-24 18:24:27 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 18:24:28 [INFO ] [Hooks1] - [setup] Scenario started Verify whether the User is not able to login with invalid credentials
+2021-03-24 18:24:28 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:24:30 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1274247563
+2021-03-24 18:24:34 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login with invalid credentials
+2021-03-24 18:24:34 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 18:24:35 [INFO ] [Hooks1] - [setup] Scenario started Verify whether the User is not able to login not credentials
+2021-03-24 18:24:36 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:24:37 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 612937843
+2021-03-24 18:24:41 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is not able to login not credentials
+2021-03-24 18:24:41 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 18:24:42 [INFO ] [Hooks1] - [setup] Scenario started Verify whether the User is able to reset Password
+2021-03-24 18:24:42 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:24:44 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1256405521
+2021-03-24 18:24:49 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify whether the User is able to reset Password
+2021-03-24 18:24:49 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 18:24:50 [INFO ] [Hooks1] - [setup] Scenario started Verify the user is able to register into the application by providing all the details
+2021-03-24 18:24:50 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:24:51 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2054451662
+2021-03-24 18:25:00 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify the user is able to register into the application by providing all the details
+2021-03-24 18:25:00 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 18:25:01 [INFO ] [Hooks1] - [setup] Scenario started Verify user is not allowed to register when user doesnt provides mandatory fields
+2021-03-24 18:25:01 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:25:03 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1453062635
+2021-03-24 18:25:07 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is not allowed to register when user doesnt provides mandatory fields
+2021-03-24 18:25:07 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 18:25:08 [INFO ] [Hooks1] - [setup] Scenario started Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-24 18:25:08 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:25:10 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 209360730
+2021-03-24 18:25:18 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify user is allowed to register while opting  for Newsletter subscription
+2021-03-24 18:25:18 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 18:25:19 [INFO ] [Hooks1] - [setup] Scenario started Verify a duplicate user is not  allowed to register
+2021-03-24 18:25:19 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:25:21 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1023996917
+2021-03-24 18:25:27 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify a duplicate user is not  allowed to register
+2021-03-24 18:25:27 [INFO ] [Hooks1] - [tearDown] Scenario Status is passed
+2021-03-24 18:32:26 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:32:30 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2131960182
+2021-03-24 18:32:32 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 18:32:32 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-24 18:47:03 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:47:07 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2131960182
+2021-03-24 18:47:12 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 18:47:12 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 18:49:21 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:49:24 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2131960182
+2021-03-24 18:49:28 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 18:49:28 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 18:50:33 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:50:36 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2131960182
+2021-03-24 18:50:40 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 18:50:40 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 18:52:13 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:52:16 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2131960182
+2021-03-24 18:52:20 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 18:52:20 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 18:53:39 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:53:43 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2131960182
+2021-03-24 18:53:47 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 18:53:47 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 18:58:15 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 18:58:20 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2131960182
+2021-03-24 18:58:26 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 18:58:26 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 21:43:26 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 21:43:30 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2131960182
+2021-03-24 21:43:34 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 21:43:34 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 21:44:22 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 21:44:26 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 2131960182
+2021-03-24 21:44:29 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 21:44:29 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 21:59:09 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 21:59:13 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 21:59:16 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify is not able to search the product which doesn't exist
+2021-03-24 21:59:16 [INFO ] [Hooks1] - [tearDown] Scenario Status is undefined
+2021-03-24 22:08:22 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 22:08:26 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 22:08:30 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify is not able to search the product which doesn't exist
+2021-03-24 22:08:30 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 22:28:14 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 22:28:18 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 22:28:22 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 22:28:22 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
+2021-03-24 22:29:52 [INFO ] [Browser1] - [startBrowser] Selected Browser = chrome
+2021-03-24 22:29:56 [INFO ] [Browser1] - [startBrowser] Chrome Driver is opening 1413730361
+2021-03-24 22:30:04 [INFO ] [Hooks1] - [tearDown] Scenario Completed Verify User is able to search the products
+2021-03-24 22:30:04 [INFO ] [Hooks1] - [tearDown] Scenario Status is failed
